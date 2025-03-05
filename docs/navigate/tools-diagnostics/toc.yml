@@ -485,6 +485,10 @@ items:
                 href: ../../core/diagnostics/debug-windows-dumps.md
               - name: Collect dumps on crash
                 href: ../../core/diagnostics/collect-dumps-crash.md
+              - name: Frequently asked questions
+                href: ../../core/diagnostics/faq-dumps.yml
+              - name: Install and use LLDB on Linux
+                href: ../../core/diagnostics/lldb-linux.md
           - name: Symbols
             href: ../../core/diagnostics/symbols.md
           - name: EventPipe
@@ -1822,8 +1826,12 @@ items:
             href: ../../fundamentals/syslib-diagnostics/syslib0056.md
           - name: SYSLIB0057
             href: ../../fundamentals/syslib-diagnostics/syslib0057.md
+          - name: SYSLIB0058
+            href: ../../fundamentals/syslib-diagnostics/syslib0058.md
           - name: SYSLIB0059
             href: ../../fundamentals/syslib-diagnostics/syslib0059.md
+          - name: SYSLIB0060
+            href: ../../fundamentals/syslib-diagnostics/syslib0060.md
       - name: Experimental features
         items:
           - name: Overview
